@@ -1,0 +1,6 @@
+Ashanti P. Artista
+BSIT 3.3
+PC16 Week 12 – Milestone 2
+
+Reflection 
+I continued my Student Activity Tracker because it connects the Dart topics I practiced from Weeks 7 to 11. I used a Student base class so regular and irregular students could share their basic information without repeating the same fields and methods. I kept the grade private and used methods to read and update it because I wanted to control which values were accepted. I used inheritance and overridden methods because the two student types follow different performance rules. I used a list to process both students through the same loop, making the program easier to extend. I added a separate report class with a mixing to reuse the reporting behavior without putting it inside the student hierarchy. Finally, I used Future. Delayed and await to simulate saving a report and show why the result should be displayed only after the operation finishes.
